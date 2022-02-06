@@ -10,6 +10,9 @@ O objetivo é percorrer o tabuleiro antes do seu adversário. Muito cuidado com 
  - Este projeto foi criado em formato de app, portanto será necessário usar um emulador ou um aparelho Anddoid.
 
  - Seu desenvolvimento foi feito no Android Studio, por isso recomendo o uso da mesma IDE.
+ - Caso não queira instalar através da IDE você pode baixar o APK direto no seu celular com o link do meu Google Drive.
+
+  [Google Drive apk ](https://drive.google.com/file/d/1o1dNrpJ3DzHLyDElUAhX1zFJIKj9WKKB/view?usp=sharing)
 
 
 ## Como funciona o app?
